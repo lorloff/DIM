@@ -6,10 +6,6 @@ dimwishlist:item=6857689&perks=1168162263,2458213969
 
 
 // Punching Out (pve)
-dimwishlist:item=378498222&perks=
-
-
-// Punching Out (pve)
 dimwishlist:item=378498222&perks=3643424744,4082225868
 dimwishlist:item=378498222&perks=3643424744,4104185692
 dimwishlist:item=378498222&perks=3643424744,1015611457
