@@ -1,0 +1,155 @@
+title:Reload Damage
+description:Only focused on S15 weapons with reload/damage perks
+
+// Annual Skate (pve)
+dimwishlist:item=6857689&perks=1168162263,2458213969
+
+
+// Punching Out (pve)
+dimwishlist:item=378498222&perks=
+
+
+// Punching Out (pve)
+dimwishlist:item=378498222&perks=3643424744,4082225868
+dimwishlist:item=378498222&perks=3643424744,4104185692
+dimwishlist:item=378498222&perks=3643424744,1015611457
+dimwishlist:item=378498222&perks=2779035018,4082225868
+dimwishlist:item=378498222&perks=2779035018,4104185692
+dimwishlist:item=378498222&perks=2779035018,1015611457
+dimwishlist:item=378498222&perks=1820235745,4082225868
+dimwishlist:item=378498222&perks=1820235745,4104185692
+dimwishlist:item=378498222&perks=1820235745,1015611457
+
+
+// The Last Breath (pve)
+dimwishlist:item=507038823&perks=1820235745,4049631843
+
+
+// The Last Breath (pve)
+dimwishlist:item=507038823&perks=1820235745,4104185692
+
+
+// Contingency Plan (pve)
+dimwishlist:item=577528837&perks=1820235745,4104185692
+dimwishlist:item=577528837&perks=1820235745,4049631843
+dimwishlist:item=577528837&perks=1168162263,4104185692
+dimwishlist:item=577528837&perks=1168162263,4049631843
+
+
+// Contingency Plan (pve)
+dimwishlist:item=577528837&perks=1820235745,4049631843
+dimwishlist:item=577528837&perks=1820235745,4104185692
+dimwishlist:item=577528837&perks=1168162263,4049631843
+dimwishlist:item=577528837&perks=1168162263,4104185692
+
+
+// Contingency Plan ()
+dimwishlist:item=577528837&perks=1168162263,1015611457
+
+
+// Scathelocke (pve)
+dimwishlist:item=602618796&perks=1820235745,3425386926
+
+
+// Peacebond (pve)
+dimwishlist:item=829330711&perks=1820235745,4082225868
+
+
+// Forge's Pledge (pve)
+dimwishlist:item=1076810832&perks=1570042021,3425386926
+
+
+// Forge's Pledge (pve)
+dimwishlist:item=1076810832&perks=1570042021,2458213969
+
+
+// Servant Leader (pve)
+dimwishlist:item=1107446438&perks=1820235745,4049631843
+dimwishlist:item=1107446438&perks=1820235745,4104185692
+dimwishlist:item=1107446438&perks=1820235745,3425386926
+dimwishlist:item=1107446438&perks=1820235745,1015611457
+dimwishlist:item=1107446438&perks=1168162263,4049631843
+dimwishlist:item=1107446438&perks=1168162263,4104185692
+dimwishlist:item=1107446438&perks=1168162263,3425386926
+dimwishlist:item=1107446438&perks=1168162263,1015611457
+dimwishlist:item=1107446438&perks=247725512,4049631843
+dimwishlist:item=1107446438&perks=247725512,4104185692
+dimwishlist:item=1107446438&perks=247725512,3425386926
+dimwishlist:item=1107446438&perks=247725512,1015611457
+
+
+// Chrysura Melo (pve)
+dimwishlist:item=1337707096&perks=
+
+
+// Chrysura Melo (pve)
+dimwishlist:item=1337707096&perks=
+
+
+// Chrysura Melo (pve)
+dimwishlist:item=1337707096&perks=
+
+
+// A Swift Verdict (pve)
+dimwishlist:item=1626503676&perks=4267945040,1015611457
+dimwishlist:item=1626503676&perks=4267945040,2846385770
+dimwishlist:item=1626503676&perks=2450788523,1015611457
+dimwishlist:item=1626503676&perks=2450788523,2846385770
+
+
+// Darkest Before (pve)
+dimwishlist:item=2481758391&perks=3643424744,3425386926
+dimwishlist:item=2481758391&perks=3643424744,4049631843
+dimwishlist:item=2481758391&perks=1820235745,3425386926
+dimwishlist:item=2481758391&perks=1820235745,4049631843
+
+
+// Sorrow's Verse (pve)
+dimwishlist:item=2496875173&perks=2779035018,3425386926
+
+
+// Sorrow's Verse (pve)
+dimwishlist:item=2496875173&perks=1168162263,3425386926
+
+
+// Sorrow's Verse (pve)
+dimwishlist:item=2496875173&perks=1820235745,4049631843
+
+
+// Sorrow's Verse (pve)
+dimwishlist:item=2496875173&perks=1820235745,3425386926
+
+
+// Sorrow's Verse (pve)
+dimwishlist:item=2496875173&perks=1820235745,4104185692
+
+
+// Sorrow's Verse (pve)
+dimwishlist:item=2496875173&perks=2779035018,4104185692
+
+
+// Sorrow's Verse (pve)
+dimwishlist:item=2496875173&perks=1168162263,4104185692
+
+
+// Spoiler Alert (pve)
+dimwishlist:item=2588048270&perks=2779035018,4104185692
+dimwishlist:item=2588048270&perks=2779035018,4082225868
+
+
+// Legal Action II (pve)
+dimwishlist:item=3409645497&perks=2779035018,3425386926
+
+
+// Legal Action II (pve)
+dimwishlist:item=3409645497&perks=2779035018,4104185692
+
+
+// Legal Action II (pve)
+dimwishlist:item=3409645497&perks=1570042021,3425386926
+
+
+// Legal Action II (pve)
+dimwishlist:item=3409645497&perks=1570042021,4104185692
+
+
