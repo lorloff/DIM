@@ -2,7 +2,7 @@ title:Reload Damage
 description:Only focused on S15 weapons with reload/damage perks
 
 // Annual Skate - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=6857689&perks=1168162263,2458213969
 dimwishlist:item=6857689&perks=1168162263,4082225868
 dimwishlist:item=6857689&perks=3436462433,2458213969
@@ -10,7 +10,7 @@ dimwishlist:item=6857689&perks=3436462433,4082225868
 
 
 // Punching Out - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=378498222&perks=3643424744,4082225868
 dimwishlist:item=378498222&perks=3643424744,4104185692
 dimwishlist:item=378498222&perks=3643424744,1015611457
@@ -26,7 +26,7 @@ dimwishlist:item=378498222&perks=3436462433,1015611457
 
 
 // The Last Breath - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=507038823&perks=1820235745,4049631843
 dimwishlist:item=507038823&perks=1820235745,4104185692
 dimwishlist:item=507038823&perks=3523296417,4049631843
@@ -34,7 +34,7 @@ dimwishlist:item=507038823&perks=3523296417,4104185692
 
 
 // Contingency Plan - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=577528837&perks=1168162263,4049631843
 dimwishlist:item=577528837&perks=1168162263,4104185692
 dimwishlist:item=577528837&perks=1820235745,4049631843
@@ -42,12 +42,12 @@ dimwishlist:item=577528837&perks=1820235745,4104185692
 
 
 // Contingency Plan - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=577528837&perks=1168162263,1015611457
 
 
 // Scathelocke - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=602618796&perks=1570042021,2458213969
 dimwishlist:item=602618796&perks=1570042021,3425386926
 dimwishlist:item=602618796&perks=1820235745,2458213969
@@ -57,13 +57,13 @@ dimwishlist:item=602618796&perks=3436462433,3425386926
 
 
 // Peacebond - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=829330711&perks=1820235745,4082225868
 dimwishlist:item=829330711&perks=1820235745,124408337
 
 
 // The Comedian - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1028582252&perks=4252909580,2360754333
 dimwishlist:item=1028582252&perks=4252909580,4049631843
 dimwishlist:item=1028582252&perks=4252909580,1546637391
@@ -73,7 +73,7 @@ dimwishlist:item=1028582252&perks=1820235745,1546637391
 
 
 // Forge's Pledge - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1076810832&perks=3436462433,3425386926
 dimwishlist:item=1076810832&perks=3436462433,2458213969
 dimwishlist:item=1076810832&perks=3300816228,3425386926
@@ -83,7 +83,7 @@ dimwishlist:item=1076810832&perks=1570042021,2458213969
 
 
 // Servant Leader - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1107446438&perks=1354429876,2458213969
 dimwishlist:item=1107446438&perks=1354429876,3425386926
 dimwishlist:item=1107446438&perks=1354429876,1015611457
@@ -117,7 +117,7 @@ dimwishlist:item=1107446438&perks=247725512,4049631843
 
 
 // Chrysura Melo - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1337707096&perks=1354429876,2848615171
 dimwishlist:item=1337707096&perks=1354429876,2458213969
 dimwishlist:item=1337707096&perks=1354429876,4104185692
@@ -133,7 +133,7 @@ dimwishlist:item=1337707096&perks=1570042021,4104185692
 
 
 // Reed's Regret - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1399243961&perks=3436462433,124408337
 dimwishlist:item=1399243961&perks=3436462433,3425386926
 dimwishlist:item=1399243961&perks=3436462433,1771339417
@@ -153,7 +153,7 @@ dimwishlist:item=1399243961&perks=3400784728,1546637391
 
 
 // Judgment - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1476654960&perks=1195158366,2458213969
 dimwishlist:item=1476654960&perks=1195158366,3673922083
 dimwishlist:item=1476654960&perks=3523296417,2458213969
@@ -161,7 +161,7 @@ dimwishlist:item=1476654960&perks=3523296417,3673922083
 
 
 // Vulpecula - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1622998472&perks=3700496672,124408337
 dimwishlist:item=1622998472&perks=3700496672,2458213969
 dimwishlist:item=1622998472&perks=3700496672,3038247973
@@ -174,13 +174,13 @@ dimwishlist:item=1622998472&perks=1168162263,3038247973
 
 
 // A Swift Verdict - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1626503676&perks=4267945040,1015611457
 dimwishlist:item=1626503676&perks=3436462433,1015611457
 
 
 // The Hothead (Adept) - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=1866778462&perks=3977735242,1546637391
 dimwishlist:item=1866778462&perks=3977735242,3194351027
 dimwishlist:item=1866778462&perks=2869569095,1546637391
@@ -188,7 +188,7 @@ dimwishlist:item=1866778462&perks=2869569095,3194351027
 
 
 // Canis Major - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=2066434718&perks=3436462433,1546637391
 dimwishlist:item=2066434718&perks=3436462433,2396489472
 dimwishlist:item=2066434718&perks=2869569095,1546637391
@@ -209,7 +209,7 @@ dimwishlist:item=2443900757&perks=4252909580,1546637391
 
 
 // Reed's Regret (Adept) - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=2475355656&perks=3436462433,3425386926
 dimwishlist:item=2475355656&perks=3436462433,1771339417
 dimwishlist:item=2475355656&perks=3436462433,1546637391
@@ -225,7 +225,7 @@ dimwishlist:item=2475355656&perks=3400784728,1546637391
 
 
 // Darkest Before - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=2481758391&perks=3436462433,4049631843
 dimwishlist:item=2481758391&perks=3436462433,3425386926
 dimwishlist:item=2481758391&perks=3643424744,4049631843
@@ -235,7 +235,7 @@ dimwishlist:item=2481758391&perks=1820235745,3425386926
 
 
 // Sorrow's Verse - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=2496875173&perks=1195158366,4104185692
 dimwishlist:item=2496875173&perks=1195158366,4049631843
 dimwishlist:item=2496875173&perks=1195158366,2458213969
@@ -263,7 +263,7 @@ dimwishlist:item=2496875173&perks=1168162263,3425386926
 
 
 // Spoiler Alert - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=2588048270&perks=2779035018,4082225868
 dimwishlist:item=2588048270&perks=2779035018,4104185692
 dimwishlist:item=2588048270&perks=3436462433,4082225868
@@ -271,7 +271,7 @@ dimwishlist:item=2588048270&perks=3436462433,4104185692
 
 
 // Iota Draconis - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=3044460004&perks=2779035018,4104185692
 dimwishlist:item=3044460004&perks=2779035018,2213355989
 dimwishlist:item=3044460004&perks=1570042021,4104185692
@@ -290,7 +290,7 @@ dimwishlist:item=3184681056&perks=1556840489,3673922083
 
 
 // The Long Walk - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=3326850591&perks=1168162263,1771339417
 dimwishlist:item=3326850591&perks=1168162263,4104185692
 dimwishlist:item=3326850591&perks=2284787283,1771339417
@@ -300,7 +300,7 @@ dimwishlist:item=3326850591&perks=3643424744,4104185692
 
 
 // Legal Action II - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=3409645497&perks=1570042021,3425386926
 dimwishlist:item=3409645497&perks=1570042021,4104185692
 dimwishlist:item=3409645497&perks=3436462433,3425386926
@@ -310,7 +310,7 @@ dimwishlist:item=3409645497&perks=2779035018,4104185692
 
 
 // Wolftone Draw - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=3472875143&perks=951095735,2848615171
 dimwishlist:item=3472875143&perks=951095735,4104185692
 dimwishlist:item=3472875143&perks=201365942,2848615171
@@ -318,7 +318,7 @@ dimwishlist:item=3472875143&perks=201365942,4104185692
 
 
 // The Hothead - Ocelot's Simple Wishlist (pve)
-//notes: #PvEReload/Damage tags:pve
+//notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=4255171531&perks=3977735242,1546637391
 dimwishlist:item=4255171531&perks=3977735242,3194351027
 dimwishlist:item=4255171531&perks=2869569095,1546637391
