@@ -1,0 +1,3 @@
+//Default Subsistence One for All
+//notes: Catch All Subsistence One for all, Hey it's okay and better than others
+dimwishlist:item=-69420&perks=3426439907,4049631843
