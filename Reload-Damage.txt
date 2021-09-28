@@ -1,6 +1,13 @@
 title:Reload Damage
 description:Only focused on S15 weapons with reload/damage perks
 
+
+
+//Default Subsistence One for All
+//notes: Catch All Subsistence One for all, Hey it's okay and better than others
+dimwishlist::item=-69420&perks=3426439907,4049631843
+
+
 // Annual Skate - Ocelot's Simple Wishlist (pve)
 //notes: Ocelot's Simple Wishlist #PvEReload/Damage tags:pve
 dimwishlist:item=6857689&perks=1168162263,2458213969
