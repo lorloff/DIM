@@ -1,7 +1,7 @@
 // Simple wishlist with reload and damage perks
+
+
 //notes: Simple Reload/Damage perk wishlist for many weapons
-
-
 dimwishlist:item=-69420&perks=1570042021,4104185692
 dimwishlist:item=-69420&perks=3643424744,4104185692
 dimwishlist:item=-69420&perks=2779035018,1015611457
