@@ -1,3 +1,34 @@
-//Default Subsistence One for All
-//notes: Catch All Subsistence One for all, Hey it's okay and better than others
+// Simple wishlist with reload and damage perks
+//notes: Simple Reload/Damage perk wishlist for many weapons
+
+
+dimwishlist:item=-69420&perks=1570042021,4104185692
+dimwishlist:item=-69420&perks=3643424744,4104185692
+dimwishlist:item=-69420&perks=2779035018,1015611457
+dimwishlist:item=-69420&perks=2450788523,1015611457
+dimwishlist:item=-69420&perks=1168162263,1015611457
+dimwishlist:item=-69420&perks=247725512,1015611457
+dimwishlist:item=-69420&perks=2779035018,2458213969
+dimwishlist:item=-69420&perks=2450788523,2458213969
+dimwishlist:item=-69420&perks=1168162263,2458213969
+dimwishlist:item=-69420&perks=247725512,2458213969
+dimwishlist:item=-69420&perks=1570042021,4049631843
+dimwishlist:item=-69420&perks=3643424744,4049631843
 dimwishlist:item=-69420&perks=1820235745,4049631843
+dimwishlist:item=-69420&perks=2779035018,3425386926
+dimwishlist:item=-69420&perks=1570042021,3425386926
+dimwishlist:item=-69420&perks=2450788523,3425386926
+dimwishlist:item=-69420&perks=1168162263,3425386926
+dimwishlist:item=-69420&perks=3643424744,3425386926
+dimwishlist:item=-69420&perks=247725512,3425386926
+dimwishlist:item=-69420&perks=1820235745,3425386926
+dimwishlist:item=-69420&perks=2779035018,4082225868
+dimwishlist:item=-69420&perks=1168162263,4082225868
+dimwishlist:item=-69420&perks=247725512,4082225868
+dimwishlist:item=-69420&perks=2010801679,1546637391
+dimwishlist:item=-69420&perks=3300816228,1546637391
+dimwishlist:item=-69420&perks=2779035018,1546637391
+dimwishlist:item=-69420&perks=1354429876,1546637391
+dimwishlist:item=-69420&perks=1556840489,1546637391
+dimwishlist:item=-69420&perks=3400784728,1546637391
+dimwishlist:item=-69420&perks=2284787283,1546637391
