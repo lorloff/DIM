@@ -1,7 +1,7 @@
 title:PandaPaxx S16 Rolls
 
 // Under Your Skin - Under your Skin (pve)
-//notes: I’ve been hearing a lot of chatter about this bow. For good reason. It’s arguably a better Hush. Successful warm-up in conjunction with archer’s tempo really drops that draw time to near-instantaneous speeds. Ideally I would love that draw time and a damage perk to really maximize fun. A bow with chain reaction? Just better dragonfly. Bungie give it to me. Back to Under Your Skin we have a neutral bow that has utility being a legendary void option. Le Monarche just got a wonderful catalyst in unrelenting, so you could potentially have a legendary lemon through dragonfly and unrelenting together. I do think the uniqueness of archer’s tempo and successful warm-up is a great combo, but for every-day play the combos of archer’s and dragonfly or explosive head, or adaptive munitions to rip through various shields is just a better play. tags:pve
+//notes: (PandaPaxxy) I’ve been hearing a lot of chatter about this bow. For good reason. It’s arguably a better Hush. Successful warm-up in conjunction with archer’s tempo really drops that draw time to near-instantaneous speeds. Ideally I would love that draw time and a damage perk to really maximize fun. A bow with chain reaction? Just better dragonfly. Bungie give it to me. Back to Under Your Skin we have a neutral bow that has utility being a legendary void option. Le Monarche just got a wonderful catalyst in unrelenting, so you could potentially have a legendary lemon through dragonfly and unrelenting together. I do think the uniqueness of archer’s tempo and successful warm-up is a great combo, but for every-day play the combos of archer’s and dragonfly or explosive head, or adaptive munitions to rip through various shields is just a better play. tags:pve
 dimwishlist:item=232928045&perks=4067834857,3429800428,3108830275,3365897133
 dimwishlist:item=232928045&perks=4067834857,3429800428,3108830275,1551736345
 dimwishlist:item=232928045&perks=4067834857,3429800428,3108830275,2848615171
@@ -221,7 +221,7 @@ dimwishlist:item=232928045&perks=2801223209,3827198035,3523746922,3431277734
 
 
 // Pointed Inquiry - Pointed Inquiry (pve)
-//notes: Pointed Inquiry is a little underwhelming. All 150 scouts are not the best stat wise but Pointed Inquiry has lower base stats than Perses-D. Where it makes up for that is in its utility with max extending perks and adaptive munitions. This allows Pointed Inquiry to have a solid foothold in higher level activities with match game. Where it does fall off is just the fact that it’s a 150 scout. Historically the community is driven to 180 and 200 RPM scouts. 150s do have their merit and can put in work in grandmaster nightfalls, but in general day-to-day the faster firing archetypes just do the job better. tags:pve
+//notes: (PandaPaxxy) Pointed Inquiry is a little underwhelming. All 150 scouts are not the best stat wise but Pointed Inquiry has lower base stats than Perses-D. Where it makes up for that is in its utility with max extending perks and adaptive munitions. This allows Pointed Inquiry to have a solid foothold in higher level activities with match game. Where it does fall off is just the fact that it’s a 150 scout. Historically the community is driven to 180 and 200 RPM scouts. 150s do have their merit and can put in work in grandmaster nightfalls, but in general day-to-day the faster firing archetypes just do the job better. tags:pve
 dimwishlist:item=297296830&perks=1840239774,1968497646,1409206216,1048183818
 dimwishlist:item=297296830&perks=1840239774,1968497646,1409206216,3431277734
 dimwishlist:item=297296830&perks=1840239774,1968497646,1409206216,1906147653
@@ -441,7 +441,7 @@ dimwishlist:item=297296830&perks=4090651448,1087426260,3700496672,169755979
 
 
 // Cantata-57 - Cantana-57 (pve)
-//notes: The Cantata-57 is a Suros hand cannon that feels like a Suros hand cannon. The Finite Impactor while being a Suros hand cannon just doesn’t feel as good to me. Cantata-57 feels good, and that’s at base. Everything else just builds this gun up to be a beast in PvE content; rivaling even Fatebringer. Ideally you’d want rapid hit and vorpal to cover your majors and minors, but timed payload is a great PvE perk similar to explosive payload. The delay in PvE is negligible and you get nothing but benefits. Rapid hit only works if the bullet portion hits crits but with the aim assist and PvE hit boxes you shouldn’t have a horrible time getting rapid hit going. tags:pve
+//notes: (PandaPaxxy) The Cantata-57 is a Suros hand cannon that feels like a Suros hand cannon. The Finite Impactor while being a Suros hand cannon just doesn’t feel as good to me. Cantata-57 feels good, and that’s at base. Everything else just builds this gun up to be a beast in PvE content; rivaling even Fatebringer. Ideally you’d want rapid hit and vorpal to cover your majors and minors, but timed payload is a great PvE perk similar to explosive payload. The delay in PvE is negligible and you get nothing but benefits. Rapid hit only works if the bullet portion hits crits but with the aim assist and PvE hit boxes you shouldn’t have a horrible time getting rapid hit going. tags:pve
 dimwishlist:item=372697604&perks=1840239774,2420895100,247725512,1546637391
 dimwishlist:item=372697604&perks=1840239774,2420895100,247725512,1954620775
 dimwishlist:item=372697604&perks=1840239774,2420895100,247725512,2896038713
@@ -499,7 +499,7 @@ dimwishlist:item=372697604&perks=1482024992,106909392,509074078,2896038713
 
 
 // Duty Bound - Duty Bound (pve)
-//notes: Duty Bound returns to us in its random shape. I never loved the year 1 version but the model always felt really clean. Currently, Duty Bound can have the largest single mag even rivaling Sweet Business. With triple tap, fourth time’s the charm, and actium war rig, you could fire forever. In most cases that is entirely a meme, but against specific bosses it could be useful to have. A more utilitarian roll would be triple tap with vorpal weapon to slot in adept big ones when the grandmaster nightfalls release. Ideally you want to bring up the recoil direction from the base 60, but chambered compensator or extended barrel won’t do as much, and you won’t want to slot a counterbalance mod in favor of any of the spec mods. Arrowhead then becomes the only choice to really improve that recoil to something more desirable. Other options are then just to make the gun feel better. Stats for all pairs really well with one for all, but also fourth time’s the charm or vorpal for a better feeling gun. And perpetual motion will elevate the gun feel without needing to shoot. tags:pve
+//notes: (PandaPaxxy) Duty Bound returns to us in its random shape. I never loved the year 1 version but the model always felt really clean. Currently, Duty Bound can have the largest single mag even rivaling Sweet Business. With triple tap, fourth time’s the charm, and actium war rig, you could fire forever. In most cases that is entirely a meme, but against specific bosses it could be useful to have. A more utilitarian roll would be triple tap with vorpal weapon to slot in adept big ones when the grandmaster nightfalls release. Ideally you want to bring up the recoil direction from the base 60, but chambered compensator or extended barrel won’t do as much, and you won’t want to slot a counterbalance mod in favor of any of the spec mods. Arrowhead then becomes the only choice to really improve that recoil to something more desirable. Other options are then just to make the gun feel better. Stats for all pairs really well with one for all, but also fourth time’s the charm or vorpal for a better feeling gun. And perpetual motion will elevate the gun feel without needing to shoot. tags:pve
 dimwishlist:item=435216110&perks=839105230,1087426260,1583705720,4049631843
 dimwishlist:item=435216110&perks=839105230,1087426260,1583705720,1546637391
 dimwishlist:item=435216110&perks=839105230,1087426260,1583705720,1354429876
@@ -584,7 +584,7 @@ dimwishlist:item=435216110&perks=1482024992,2420895100,3400784728,1354429876
 
 
 // Forbearance - Forbearance ()
-//notes: Forbearance fills out the trifecta of one void, one solar, and now one arc wave frame grenade launcher. AND THIS ONE MAKES BOOM. I have historically liked when my weapons go boom. This is not an exception. Forbearance with chain reaction will make me laugh. I cannot wait to get it. While it might not be as strong as Salvager’s Salvo in terms of room clearing as you’d need to get the enemies to line up to a degree, that will still not stop its fun factor. Getting the Salvager’s Salvo roll on Forbearance or unrelenting and chain reaction to get health from your booms would also be a nice way to roll into some thrall.
+//notes: (PandaPaxxy) Forbearance fills out the trifecta of one void, one solar, and now one arc wave frame grenade launcher. AND THIS ONE MAKES BOOM. I have historically liked when my weapons go boom. This is not an exception. Forbearance with chain reaction will make me laugh. I cannot wait to get it. While it might not be as strong as Salvager’s Salvo in terms of room clearing as you’d need to get the enemies to line up to a degree, that will still not stop its fun factor. Getting the Salvager’s Salvo roll on Forbearance or unrelenting and chain reaction to get health from your booms would also be a nice way to roll into some thrall.
 dimwishlist:item=613334176&perks=3798852852,3492396210,3108830275,2610012052
 dimwishlist:item=613334176&perks=3798852852,3492396210,3108830275,4290541820
 dimwishlist:item=613334176&perks=3798852852,3492396210,3108830275,4049631843
@@ -804,7 +804,7 @@ dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
 
 
 // Deliverance - Deliverance PvE (pve)
-//notes: Oh boy am I excited about this one. Deliverance is our first “kinetic” legendary fusion rifle. Bastion is fun and cool but Deliverance is a whole new level of cool (I’ll see myself out, don’t worry). Much like the rest of this season, you want to craft one with arrowhead brake to get that recoil direction up. Slotting just a counterbalance mod would suffice but you lose out on all the spec mods or backup mag. I think harmony or adrenaline junkie are going to be your best perks for general utility and major killing. But chill clip in conjunction with stasis builds will be really strong together. tags:pve
+//notes: (PandaPaxxy) Oh boy am I excited about this one. Deliverance is our first “kinetic” legendary fusion rifle. Bastion is fun and cool but Deliverance is a whole new level of cool (I’ll see myself out, don’t worry). Much like the rest of this season, you want to craft one with arrowhead brake to get that recoil direction up. Slotting just a counterbalance mod would suffice but you lose out on all the spec mods or backup mag. I think harmony or adrenaline junkie are going to be your best perks for general utility and major killing. But chill clip in conjunction with stasis builds will be really strong together. tags:pve
 dimwishlist:item=768621510&perks=1840239774,2680121939,3523296417,438098033
 dimwishlist:item=768621510&perks=1840239774,2680121939,3523296417,2422968039
 dimwishlist:item=768621510&perks=1840239774,2680121939,3523296417,2748801589
@@ -1024,7 +1024,7 @@ dimwishlist:item=768621510&perks=839105230,689005463,1008128453,11612903
 
 
 // Come to Pass - Come to Pass (pve)
-//notes: Like Herod-C this archetype is middling but not terrible. The one thing that Come to Pass does that is better than Herod-C is handle shielded enemies with ease. Herod-C can clear rooms with headstone, Come to Pass deals with champs and shields better than most other autos in its archetype. Adaptive munitions is very strong and triple tap once the shield is gone can artificially extend your mag to make it even easier to kill those higher health bar enemies. tags:pve
+//notes: (PandaPaxxy) Like Herod-C this archetype is middling but not terrible. The one thing that Come to Pass does that is better than Herod-C is handle shielded enemies with ease. Herod-C can clear rooms with headstone, Come to Pass deals with champs and shields better than most other autos in its archetype. Adaptive munitions is very strong and triple tap once the shield is gone can artificially extend your mag to make it even easier to kill those higher health bar enemies. tags:pve
 dimwishlist:item=927567426&perks=1482024992,1087426260,3400784728,4049631843
 dimwishlist:item=927567426&perks=1482024992,1087426260,3400784728,2848615171
 dimwishlist:item=927567426&perks=1482024992,1087426260,3400784728,1048183818
@@ -1352,7 +1352,7 @@ dimwishlist:item=927567426&perks=1840239774,2420895100,2014892510,859780267
 
 
 // Cataclysmic - Cataclysmic (pve)
-//notes: Cataclysmic is an interesting linear fusion rifle (does anyone think I say a weapon is “interesting” too much?) While it doesn’t directly beat out Reed’s Regret in terms of damage it possibly could. It really depends on your damage window. Firing line will do longer burst damage, but if you don’t have mag extending perks you won’t be able to keep up with Cataclysmic. Fourth time’s the charm will let you deal damage for longer if you spec your Cataclysmic the right way, and you can craft the exact roll you want. tags:pve
+//notes: (PandaPaxxy) Cataclysmic is an interesting linear fusion rifle (does anyone think I say a weapon is “interesting” too much?) While it doesn’t directly beat out Reed’s Regret in terms of damage it possibly could. It really depends on your damage window. Firing line will do longer burst damage, but if you don’t have mag extending perks you won’t be able to keep up with Cataclysmic. Fourth time’s the charm will let you deal damage for longer if you spec your Cataclysmic the right way, and you can craft the exact roll you want. tags:pve
 dimwishlist:item=999767358&perks=839105230,689005463,1354429876,2213355989
 dimwishlist:item=999767358&perks=839105230,689005463,1354429876,2002547233
 dimwishlist:item=999767358&perks=839105230,689005463,1354429876,3563868667
@@ -1500,7 +1500,7 @@ dimwishlist:item=999767358&perks=1840239774,1483536627,848860060,1048183818
 
 
 // Perses-D - Perses-D (pve)
-//notes: Perses-D has only a few good things going its way. The first being the “for all” twins; stats for all and one for all. Bumping up the lower stats all 150s have and boosting damage with the same activation. Other combos are the tried and true rapid hit paired with vorpal or explosive for decent damage but lower ceiling. Shoot to loot is always funny to see, but in practice it can be a bit iffy. If you like it, use it. tags:pve
+//notes: (PandaPaxxy) Perses-D has only a few good things going its way. The first being the “for all” twins; stats for all and one for all. Bumping up the lower stats all 150s have and boosting damage with the same activation. Other combos are the tried and true rapid hit paired with vorpal or explosive for decent damage but lower ceiling. Shoot to loot is always funny to see, but in practice it can be a bit iffy. If you like it, use it. tags:pve
 dimwishlist:item=1019000888&perks=1482024992,1087426260,247725512,1546637391
 dimwishlist:item=1019000888&perks=1482024992,1087426260,247725512,4049631843
 dimwishlist:item=1019000888&perks=1482024992,1087426260,247725512,3038247973
@@ -1558,7 +1558,7 @@ dimwishlist:item=1019000888&perks=1840239774,2420895100,1583705720,3038247973
 
 
 // Frontier's Cry - Frontier's Cry (pve)
-//notes: Frontier’s Cry is an interesting little beast. I think it’s leaps and bounds better than Survivor’s Epitaph but still not as good as our old and faithful Trust. With access to rapid hit and kill clip on a shallower loot pool than Survivor’s Epitaph you just have better luck getting one to drop. That roll will serve you well in all facets of the game where a 180 hand cannon isn’t an active detriment (I won’t yell at you in a raid for using it, but I cannot vouch for everyone). There isn’t too much more to say on Frontier’s Cry as it’s a pretty self explanatory precision hand cannon that just falls into a PvE meta that won’t appreciate it. tags:pve
+//notes: (PandaPaxxy) Frontier’s Cry is an interesting little beast. I think it’s leaps and bounds better than Survivor’s Epitaph but still not as good as our old and faithful Trust. With access to rapid hit and kill clip on a shallower loot pool than Survivor’s Epitaph you just have better luck getting one to drop. That roll will serve you well in all facets of the game where a 180 hand cannon isn’t an active detriment (I won’t yell at you in a raid for using it, but I cannot vouch for everyone). There isn’t too much more to say on Frontier’s Cry as it’s a pretty self explanatory precision hand cannon that just falls into a PvE meta that won’t appreciate it. tags:pve
 dimwishlist:item=1141547457&perks=4090651448,106909392,247725512,1015611457
 dimwishlist:item=1141547457&perks=4090651448,106909392,247725512,4049631843
 dimwishlist:item=1141547457&perks=4090651448,106909392,247725512,3673922083
@@ -1616,7 +1616,7 @@ dimwishlist:item=1141547457&perks=1482024992,2420895100,1048183818,3673922083
 
 
 // Sweet Sorrow - Sweet Sorrow (pve)
-//notes: Sweet Sorrow is an interesting case. It’s almost a better Chroma Rush for majors while still having good utility in general content. This allows you to expand your loadouts and flex into kinetic (or stasis) special weapons while still having that good bullet hose in your back pocket. You seriously need to clean up the recoil direction so I think arrowhead brake is a must-have on any Sweet Sorrow you do end up keeping. A recoil direction stat of 57 is just far too low. Ideally the +45 from arrowhead brake and a counterbalance mod would be the best choice but I know that minor spec or backup mag would be the better choice for most users. Triple tap and vorpal weapon together can help you shred some majors or champions, but the overall lower base damage leans me to recommending other weapons specifically for major killing. You can make it work but it’s not ideal. tags:pve
+//notes: (PandaPaxxy) Sweet Sorrow is an interesting case. It’s almost a better Chroma Rush for majors while still having good utility in general content. This allows you to expand your loadouts and flex into kinetic (or stasis) special weapons while still having that good bullet hose in your back pocket. You seriously need to clean up the recoil direction so I think arrowhead brake is a must-have on any Sweet Sorrow you do end up keeping. A recoil direction stat of 57 is just far too low. Ideally the +45 from arrowhead brake and a counterbalance mod would be the best choice but I know that minor spec or backup mag would be the better choice for most users. Triple tap and vorpal weapon together can help you shred some majors or champions, but the overall lower base damage leans me to recommending other weapons specifically for major killing. You can make it work but it’s not ideal. tags:pve
 dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,1546637391
 dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,3418165135
 dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,859780267
@@ -1944,7 +1944,7 @@ dimwishlist:item=1248372789&perks=1482024992,2420895100,3300816228,4049631843
 
 
 // Fel Taradiddle - Fel Taradiddle (pve)
-//notes: Whispering Slab has some decent competition. So if you are new or didn’t get a chance to grab your god roll from almost two years ago (Season of Arrivals was that long ago? Holy crap). Now is your chance. You can easily hit the draw time floor of 540 with a couple different combinations and archer’s tempo does drop that even further. Pair that draw time with damage perks like adrenaline junkie or one for all. Or you can go the “double stagger” route with explosive head when overload bows come back as an artifact mod (there are few things more satisfying than infinite staggering a champion). tags:pve
+//notes: (PandaPaxxy) Whispering Slab has some decent competition. So if you are new or didn’t get a chance to grab your god roll from almost two years ago (Season of Arrivals was that long ago? Holy crap). Now is your chance. You can easily hit the draw time floor of 540 with a couple different combinations and archer’s tempo does drop that even further. Pair that draw time with damage perks like adrenaline junkie or one for all. Or you can go the “double stagger” route with explosive head when overload bows come back as an artifact mod (there are few things more satisfying than infinite staggering a champion). tags:pve
 dimwishlist:item=1399109800&perks=2801223209,3429800428,3700496672,11612903
 dimwishlist:item=1399109800&perks=2801223209,3429800428,3700496672,2422968039
 dimwishlist:item=1399109800&perks=2801223209,3429800428,3700496672,3365897133
@@ -2164,7 +2164,7 @@ dimwishlist:item=1399109800&perks=852209214,3827198035,3523746922,859780267
 
 
 // Forensic Nightmare - Forensic Nightmare (pve)
-//notes: Precision frame submachine guns are in a weird spot. Having higher damage but lower stats across the boards combined with a pitiful reload creates an awful feeling weapon. You can counter this with perpetual motion to boost some of the stats or grave robber to straight up bypass the reload, but you still have an uphill battle to fight with the gun versus using Funnelweb or similar that need a lot less to feel good. tags:pve
+//notes: (PandaPaxxy) Precision frame submachine guns are in a weird spot. Having higher damage but lower stats across the boards combined with a pitiful reload creates an awful feeling weapon. You can counter this with perpetual motion to boost some of the stats or grave robber to straight up bypass the reload, but you still have an uphill battle to fight with the gun versus using Funnelweb or similar that need a lot less to feel good. tags:pve
 dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,124408337
 dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,4082225868
 dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,1161469972
@@ -2312,7 +2312,7 @@ dimwishlist:item=1526296434&perks=1482024992,2420895100,402033656,1171887445
 
 
 // Recurrent Impact - Recurrent Impact (pve)
-//notes: Do I really wish this was a 450 and not 900? Yes, absolutely. But we cannot change the guns that are given to us. So instead we bump up the recoil direction, grab some buddies, hope we don’t run out of mouse pad, and pull down like we’ve never seen our screen. Seriously though. Having a huge magazine and access to firing line gives some wonderful damage but you really have to crank straight down on your input method of choice to hit constant crits. Without arrowhead brake you best hope you see yellow because a recoil direction of 53 is pitifully low. You could also opt for a room clearing weapon through subsistence and headstone, but I would just rather have Eyasluna for that. Even Syncopation-55 is better than this bullet hose. tags:pve
+//notes: (PandaPaxxy) Do I really wish this was a 450 and not 900? Yes, absolutely. But we cannot change the guns that are given to us. So instead we bump up the recoil direction, grab some buddies, hope we don’t run out of mouse pad, and pull down like we’ve never seen our screen. Seriously though. Having a huge magazine and access to firing line gives some wonderful damage but you really have to crank straight down on your input method of choice to hit constant crits. Without arrowhead brake you best hope you see yellow because a recoil direction of 53 is pitifully low. You could also opt for a room clearing weapon through subsistence and headstone, but I would just rather have Eyasluna for that. Even Syncopation-55 is better than this bullet hose. tags:pve
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,124408337
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,1771339417
 dimwishlist:item=1572896086&perks=1482024992,106909392,1820235745,395388285
@@ -2532,7 +2532,7 @@ dimwishlist:item=1572896086&perks=1840239774,2420895100,3920370755,3007133316
 
 
 // Redback-5si - Redback-5si (pve)
-//notes: Sidearms in PvE are in a weird spot, while they have high damage per shot and excel in close range, you don’t always want to put yourself into those situations. The best perk for the Redback-5si is surrounded with surrounded spec, but that is a hairy situation to begin with. I would bump up its mag, range, and spec into reloader perks to maximize this sidearm’s usage, but I just don’t think it beats submachine guns, let alone autos or other longer ranged primaries. tags:pve
+//notes: (PandaPaxxy) Sidearms in PvE are in a weird spot, while they have high damage per shot and excel in close range, you don’t always want to put yourself into those situations. The best perk for the Redback-5si is surrounded with surrounded spec, but that is a hairy situation to begin with. I would bump up its mag, range, and spec into reloader perks to maximize this sidearm’s usage, but I just don’t think it beats submachine guns, let alone autos or other longer ranged primaries. tags:pve
 dimwishlist:item=1687353095&perks=1840239774,3142289711,1820235745,1546637391
 dimwishlist:item=1687353095&perks=1840239774,3142289711,1820235745,4049631843
 dimwishlist:item=1687353095&perks=1840239774,3142289711,1820235745,3708227201
@@ -2590,7 +2590,7 @@ dimwishlist:item=1687353095&perks=1482024992,106909392,1428297954,3708227201
 
 
 // Herod-C - Herod-C (pve)
-//notes: Herod-C is an interesting weapon. Higher base zoom than the rest of its archetype, only being surpassed by False Promises. Herod-C does have better base stats almost entirely across the board for the archetype. Where it lacks in some categories it blows out the competition in others. With such a slow rate of fire you won’t have to spec as hard into stability to keep the bullets going where you want them to go. Also having the highest stability of its class helps that out too. When it comes to perks Arrowhead will be the play. Bumping fully automatic weapons to 100 recoil direction with a decent amount of handling added will just make your end result an easy shooting experience. Appended mag will help bring up its already high magazine size, but you could opt for armor-piercing rounds for general utility against shields. The trait perks also work in different ways as well. One way you can spec your Herod-C is to create a pseudo-mag through subsistence and demolitionist; or you could breach and clear using subsistence and headstone to rip through groups of enemies; if bosses are your bread and butter having more damage against them and ammo back through fourth time’s the charm can also leverage the high damage and magazine Herod-C can provide you. tags:pve
+//notes: (PandaPaxxy) Herod-C is an interesting weapon. Higher base zoom than the rest of its archetype, only being surpassed by False Promises. Herod-C does have better base stats almost entirely across the board for the archetype. Where it lacks in some categories it blows out the competition in others. With such a slow rate of fire you won’t have to spec as hard into stability to keep the bullets going where you want them to go. Also having the highest stability of its class helps that out too. When it comes to perks Arrowhead will be the play. Bumping fully automatic weapons to 100 recoil direction with a decent amount of handling added will just make your end result an easy shooting experience. Appended mag will help bring up its already high magazine size, but you could opt for armor-piercing rounds for general utility against shields. The trait perks also work in different ways as well. One way you can spec your Herod-C is to create a pseudo-mag through subsistence and demolitionist; or you could breach and clear using subsistence and headstone to rip through groups of enemies; if bosses are your bread and butter having more damage against them and ammo back through fourth time’s the charm can also leverage the high damage and magazine Herod-C can provide you. tags:pve
 dimwishlist:item=1788603939&perks=839105230,2420895100,1820235745,124408337
 dimwishlist:item=1788603939&perks=839105230,2420895100,1820235745,1546637391
 dimwishlist:item=1788603939&perks=839105230,2420895100,1820235745,3523296417
@@ -2675,7 +2675,7 @@ dimwishlist:item=1788603939&perks=1482024992,1968497646,1354429876,3523296417
 
 
 // Razor's Edge - Razor's Edge (pve)
-//notes: A contender to our beloved spin-to-win, Falling Guillotine. Getting both add-clear via chain reaction or big damage through frenzy or one for all gives Razor’s Edge some real reason to grind for it. Now if you already have a good Guillotine or Hero of Ages you really don’t need Razor’s Edge, but having the option is never a bad thing. It also looks incredible as a mini-light saber. So take that for what you will. tags:pve
+//notes: (PandaPaxxy) A contender to our beloved spin-to-win, Falling Guillotine. Getting both add-clear via chain reaction or big damage through frenzy or one for all gives Razor’s Edge some real reason to grind for it. Now if you already have a good Guillotine or Hero of Ages you really don’t need Razor’s Edge, but having the option is never a bad thing. It also looks incredible as a mini-light saber. So take that for what you will. tags:pve
 dimwishlist:item=1796949035&perks=938542991,269888150,3108830275,4049631843
 dimwishlist:item=1796949035&perks=938542991,269888150,3108830275,2396489472
 dimwishlist:item=1796949035&perks=938542991,269888150,3108830275,4104185692
@@ -2715,7 +2715,7 @@ dimwishlist:item=1796949035&perks=3666208348,52780822,3705817207,4104185692
 
 
 // Likely Suspect - Likely Suspect (pve)
-//notes: Likely Suspect is like off-brand Snorri-FR5. It doesn’t have the room clearing perks like Snorri-FR5, nor does it have the boss killing power of Cartesian Coordinate. It is a fine neutral option while you farm out world drops to get Snorri-FR5. tags:pve
+//notes: (PandaPaxxy) Likely Suspect is like off-brand Snorri-FR5. It doesn’t have the room clearing perks like Snorri-FR5, nor does it have the boss killing power of Cartesian Coordinate. It is a fine neutral option while you farm out world drops to get Snorri-FR5. tags:pve
 dimwishlist:item=1994645182&perks=1840239774,2680121939,1428297954,3673922083
 dimwishlist:item=1994645182&perks=1840239774,2680121939,1428297954,2889515627
 dimwishlist:item=1994645182&perks=1840239774,2680121939,1428297954,2610012052
@@ -2935,7 +2935,7 @@ dimwishlist:item=1994645182&perks=4090651448,689005463,1409206216,4049631843
 
 
 // Piece of Mind - Piece of Mind PvE Rolls (pve)
-//notes: This is an interesting weapon. A decent 540 pulse with average stats means it has some decent competition. What would make Piece of Mind better than say Time-Worn Spire or a Gridskipper alternative? Well, it can get barrels to boost it above Time-Worn Spire, and its perk pool is better for neutral builds in PvE. Overflow and vorpal weapon? Yes please. Stats for all or perpetual motion and adrenaline junkie? For sure. It won’t have the straight up consistency as Time-Worn Spire but it will have a higher ceiling for using it in all activities. tags:pve
+//notes: (PandaPaxxy) This is an interesting weapon. A decent 540 pulse with average stats means it has some decent competition. What would make Piece of Mind better than say Time-Worn Spire or a Gridskipper alternative? Well, it can get barrels to boost it above Time-Worn Spire, and its perk pool is better for neutral builds in PvE. Overflow and vorpal weapon? Yes please. Stats for all or perpetual motion and adrenaline junkie? For sure. It won’t have the straight up consistency as Time-Worn Spire but it will have a higher ceiling for using it in all activities. tags:pve
 dimwishlist:item=2097055732&perks=3661387068,1087426260,3643424744,1546637391
 dimwishlist:item=2097055732&perks=3661387068,1087426260,3643424744,2402480669
 dimwishlist:item=2097055732&perks=3661387068,1087426260,3643424744,11612903
@@ -3119,7 +3119,7 @@ dimwishlist:item=2097055732&perks=1482024992,2420895100,2014892510,2422968039
 
 
 // Fugue-55 - Fugue-55 (Poison, Poison, Tasty Fish) (pve)
-//notes: Fugue-55 to me feels like an adaptive Ikelos sniper rifle. It doesn’t really do anything flashy, but what it does do it does really well. Having access to firing line and fourth time’s the charm is a real benefit to those who haven’t gotten a good ikelos, started recently, or simply prefer adaptives to rapid-fire frame snipers. Auto-loading holster and vorpal weapon are great for solo activities or if you’re against Rhulk and separated from your fireteam. Having the ability to have decent damage and almost a “fire and forget” weapon while maintaining movement or solitude just feels like a good weapon to keep in your arsenal. tags:pve
+//notes: (PandaPaxxy) Fugue-55 to me feels like an adaptive Ikelos sniper rifle. It doesn’t really do anything flashy, but what it does do it does really well. Having access to firing line and fourth time’s the charm is a real benefit to those who haven’t gotten a good ikelos, started recently, or simply prefer adaptives to rapid-fire frame snipers. Auto-loading holster and vorpal weapon are great for solo activities or if you’re against Rhulk and separated from your fireteam. Having the ability to have decent damage and almost a “fire and forget” weapon while maintaining movement or solitude just feels like a good weapon to keep in your arsenal. tags:pve
 dimwishlist:item=2233545123&perks=4090651448,1087426260,1354429876,1771339417
 dimwishlist:item=2233545123&perks=4090651448,1087426260,1354429876,1546637391
 dimwishlist:item=2233545123&perks=4090651448,1087426260,1354429876,2896038713
@@ -3204,7 +3204,7 @@ dimwishlist:item=2233545123&perks=1840239774,2420895100,3300816228,2896038713
 
 
 // Ogma PR6 - Ogma PR6 (pve)
-//notes: Ogma PR6 has a fun name. You can definitely find some jokes for me with it. But it also has some incredible utility outside of being a funny name. Adaptive munitions and disruption break together create an incredibly easy to use weapon that scales up to higher tier content with ease. The lower base damage of being a lightweight frame does hurt it a tad, but for the most part that hasn’t stopped people from using things like the BxR Battler in all content either. You could also opt for demolitionist and dragonfly for maximum uptime on those weakening grenades I see everyone loves so much. There’s a lot that can be done with this pulse, so don’t instantly scrap it. tags:pve
+//notes: (PandaPaxxy) Ogma PR6 has a fun name. You can definitely find some jokes for me with it. But it also has some incredible utility outside of being a funny name. Adaptive munitions and disruption break together create an incredibly easy to use weapon that scales up to higher tier content with ease. The lower base damage of being a lightweight frame does hurt it a tad, but for the most part that hasn’t stopped people from using things like the BxR Battler in all content either. You could also opt for demolitionist and dragonfly for maximum uptime on those weakening grenades I see everyone loves so much. There’s a lot that can be done with this pulse, so don’t instantly scrap it. tags:pve
 dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,11612903
 dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,2848615171
 dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,1683379515
@@ -3289,7 +3289,7 @@ dimwishlist:item=2342054803&perks=1840239774,2420895100,3108830275,1683379515
 
 
 // The Enigma - The Enigma (pve)
-//notes: Man Enigma is…an enigma. I will be the first to say, glaives were not what I expected and I am not impressed with their current state. They are new and there’s still a lot that can be done to better them, but combat bows were better out of the gate. That’s all I’ll say to dig into glaives. Onto Enigma. Reloading glaives feels awful even without extended mag. Impulse amplifier does help a lot, but also making sure your barrels don’t hurt reload will just make the whole process easier. tags:pve
+//notes: (PandaPaxxy) Man Enigma is…an enigma. I will be the first to say, glaives were not what I expected and I am not impressed with their current state. They are new and there’s still a lot that can be done to better them, but combat bows were better out of the gate. That’s all I’ll say to dig into glaives. Onto Enigma. Reloading glaives feels awful even without extended mag. Impulse amplifier does help a lot, but also making sure your barrels don’t hurt reload will just make the whole process easier. tags:pve
 dimwishlist:item=2595497736&perks=594346985,3721627275,1820235745,3108830275
 dimwishlist:item=2595497736&perks=594346985,3721627275,1820235745,855168139
 dimwishlist:item=2595497736&perks=594346985,3721627275,1820235745,3007133316
@@ -3437,7 +3437,7 @@ dimwishlist:item=2595497736&perks=2713678205,1431678320,1171147302,3425386926
 
 
 // Empirical Evidence - Empirical Evidence (pve)
-//notes: It is good to see another aggressive burst sidearm back in the game. These have always been a hot topic within the community. Between their weird burst, high damage, and lack of perks they fall into a weird category, where Bungie wants them to be good but handicaps them from the rip to not have as high of a utility. Empirical Evidence is just alright. Nothing flashy but also nothing bad. Just middle of the pack. With a better perk pool you could see this being a top contender for possibly end game activities. But Empirical Evidence’s perk pool just lets it down. tags:pve
+//notes: (PandaPaxxy) It is good to see another aggressive burst sidearm back in the game. These have always been a hot topic within the community. Between their weird burst, high damage, and lack of perks they fall into a weird category, where Bungie wants them to be good but handicaps them from the rip to not have as high of a utility. Empirical Evidence is just alright. Nothing flashy but also nothing bad. Just middle of the pack. With a better perk pool you could see this being a top contender for possibly end game activities. But Empirical Evidence’s perk pool just lets it down. tags:pve
 dimwishlist:item=2607304614&perks=3250034553,1968497646,1428297954,3673922083
 dimwishlist:item=2607304614&perks=3250034553,1968497646,1428297954,2889515627
 dimwishlist:item=2607304614&perks=3250034553,1968497646,1428297954,4082225868
@@ -3489,7 +3489,7 @@ dimwishlist:item=2607304614&perks=1840239774,2420895100,2014892510,1161469972
 
 
 // Aisha's Embrace - Aisha's Embrace (pve)
-//notes: Aisha’s Embrace is slotting into an interesting place. Directly competing with Contingency Plan and having similar competition with Servant Leader is tough. Aisha’s Embrace separates itself by both offering different zoom levels, as well as a very compelling perk pool. Having triple tap and vorpal on a full auto scout just feels right. You could also try to use shoot to loot or focused fury depending on how you want to spec your scout. Aisha’s Embrace offers some really good PvE utility that Contingency Plan just doesn’t have room to compete with. tags:pve
+//notes: (PandaPaxxy) Aisha’s Embrace is slotting into an interesting place. Directly competing with Contingency Plan and having similar competition with Servant Leader is tough. Aisha’s Embrace separates itself by both offering different zoom levels, as well as a very compelling perk pool. Having triple tap and vorpal on a full auto scout just feels right. You could also try to use shoot to loot or focused fury depending on how you want to spec your scout. Aisha’s Embrace offers some really good PvE utility that Contingency Plan just doesn’t have room to compete with. tags:pve
 dimwishlist:item=2638190703&perks=1840239774,2420895100,3400784728,1354429876
 dimwishlist:item=2638190703&perks=1840239774,2420895100,3400784728,1546637391
 dimwishlist:item=2638190703&perks=1840239774,2420895100,3400784728,2458213969
@@ -3547,7 +3547,7 @@ dimwishlist:item=2638190703&perks=4090651448,1968497646,3108830275,2458213969
 
 
 // Tarnation - Tarnation (pve)
-//notes: What in Tarnation? Okay, now that that is out of my system. Tarnation is underwhelming. Rapid-fire grenade launchers have not been within the meta ever since their nerf before Beyond Light. They have not recovered. While they still have decent burst damage, and middling sustained damage. For single target damage there are better options and for grenade launchers you’re better off using the adaptives to clear rooms. tags:pve
+//notes: (PandaPaxxy) What in Tarnation? Okay, now that that is out of my system. Tarnation is underwhelming. Rapid-fire grenade launchers have not been within the meta ever since their nerf before Beyond Light. They have not recovered. While they still have decent burst damage, and middling sustained damage. For single target damage there are better options and for grenade launchers you’re better off using the adaptives to clear rooms. tags:pve
 dimwishlist:item=2721157927&perks=1441682018,3301904089,2869569095,2396489472
 dimwishlist:item=2721157927&perks=1441682018,3301904089,2869569095,598607952
 dimwishlist:item=2721157927&perks=1441682018,3301904089,2869569095,3592538738
@@ -3599,7 +3599,7 @@ dimwishlist:item=2721157927&perks=3798852852,3301904089,3563868667,2675361166
 
 
 // Fortissimo-11 - Fortissimo-11 (pve)
-//notes: I like Fortissimo-11. Something about it just feels better than Blasphemer to me. It might be the base stats it’s definitely the base stats. In your usual strikes, nightfalls, and Aksis beat downs, it pairs really well with your old FILO of days gone. Lead with FILO, stow it away for auto-loading holster, swap to Fortissimo-11 for the ammo regeneration via fourth time’s the charm. For general utility something like subsistence for mobbing or feeding frenzy for ease of use. Surrounded will also be fun as a passive damage bonus. tags:pve
+//notes: (PandaPaxxy) I like Fortissimo-11. Something about it just feels better than Blasphemer to me. It might be the base stats it’s definitely the base stats. In your usual strikes, nightfalls, and Aksis beat downs, it pairs really well with your old FILO of days gone. Lead with FILO, stow it away for auto-loading holster, swap to Fortissimo-11 for the ammo regeneration via fourth time’s the charm. For general utility something like subsistence for mobbing or feeding frenzy for ease of use. Surrounded will also be fun as a passive damage bonus. tags:pve
 dimwishlist:item=2821430069&perks=839105230,106909392,1354429876,1546637391
 dimwishlist:item=2821430069&perks=839105230,106909392,1354429876,3708227201
 dimwishlist:item=2821430069&perks=839105230,106909392,1354429876,2896038713
@@ -3684,7 +3684,7 @@ dimwishlist:item=2821430069&perks=3250034553,1087426260,1820235745,2896038713
 
 
 // Krait - Krait (pve)
-//notes: Oh do I love having a Veist 720 again. Truly Veist makes some wonderful weapons. Krait is no exception to that rule. With overflow or subsistence and the Veist stinger origin trait you can fire literally forever. Sweet Business be damned, a legendary auto can do similar bullet spraying while also receiving a nice damage bonus through vorpal weapon. Ideally (similar theme here Bungie) you’d want to run arrowhead brake to make your shooting experience just a little bit easier, but Veist weapons usually have good recoil patterns without a good recoil direction so your mileage may vary. Headstone and one for all are great for clearing rooms paired with subsistence, really there aren’t many bad perks on Krait. tags:pve
+//notes: (PandaPaxxy) Oh do I love having a Veist 720 again. Truly Veist makes some wonderful weapons. Krait is no exception to that rule. With overflow or subsistence and the Veist stinger origin trait you can fire literally forever. Sweet Business be damned, a legendary auto can do similar bullet spraying while also receiving a nice damage bonus through vorpal weapon. Ideally (similar theme here Bungie) you’d want to run arrowhead brake to make your shooting experience just a little bit easier, but Veist weapons usually have good recoil patterns without a good recoil direction so your mileage may vary. Headstone and one for all are great for clearing rooms paired with subsistence, really there aren’t many bad perks on Krait. tags:pve
 dimwishlist:item=2852052802&perks=839105230,2420895100,3643424744,4049631843
 dimwishlist:item=2852052802&perks=839105230,2420895100,3643424744,124408337
 dimwishlist:item=2852052802&perks=839105230,2420895100,3643424744,1546637391
@@ -3724,7 +3724,7 @@ dimwishlist:item=2852052802&perks=1840239774,1561002382,1820235745,1546637391
 
 
 // Syncopation-53 - Syncopation-53 (pve)
-//notes: Syncopation is in an interesting spot right now. It competes with Eyasluna, the previous best headstone weapon while also being able to make crystals, but from further ranges. Being a pulse rifle puts it in a better spot for range and having multiple bullets per burst rivals hand cannon’s big single shot damage. The unfortunate part is no rapid hit to maximize the weapons feel, but it does have some incredible utility with stasis builds and general crystal shattering. tags:pve
+//notes: (PandaPaxxy) Syncopation is in an interesting spot right now. It competes with Eyasluna, the previous best headstone weapon while also being able to make crystals, but from further ranges. Being a pulse rifle puts it in a better spot for range and having multiple bullets per burst rivals hand cannon’s big single shot damage. The unfortunate part is no rapid hit to maximize the weapons feel, but it does have some incredible utility with stasis builds and general crystal shattering. tags:pve
 dimwishlist:item=2856514843&perks=1840239774,1087426260,1168162263,3418165135
 dimwishlist:item=2856514843&perks=1840239774,1087426260,1168162263,1546637391
 dimwishlist:item=2856514843&perks=1840239774,1087426260,1168162263,2402480669
@@ -3776,7 +3776,7 @@ dimwishlist:item=2856514843&perks=1482024992,2420895100,1347741687,2896038713
 
 
 // Crisis Inverted - Crisis Inverted (pve)
-//notes: Crisis Inverted is a really interesting hand cannon. It has the potential of being really dominant with the right roll and I do think a lot of people are sleeping on it in favor of the Cantata-57 or Palindrome. Having the ability to get rapid hit and the new omolon fluid dynamics origin trait gives Crisis Inverted incredible stability and reload regardless of where you are in the mag and how many stacks of rapid hit you have. Add in damage perks like kill clip, one for all, and vorpal for majors will really put Crisis Inverted over the competition. tags:pve
+//notes: (PandaPaxxy) Crisis Inverted is a really interesting hand cannon. It has the potential of being really dominant with the right roll and I do think a lot of people are sleeping on it in favor of the Cantata-57 or Palindrome. Having the ability to get rapid hit and the new omolon fluid dynamics origin trait gives Crisis Inverted incredible stability and reload regardless of where you are in the mag and how many stacks of rapid hit you have. Add in damage perks like kill clip, one for all, and vorpal for majors will really put Crisis Inverted over the competition. tags:pve
 dimwishlist:item=2888266564&perks=4090651448,1087426260,1168162263,4049631843
 dimwishlist:item=2888266564&perks=4090651448,1087426260,1168162263,1015611457
 dimwishlist:item=2888266564&perks=4090651448,1087426260,1168162263,1546637391
@@ -3861,7 +3861,7 @@ dimwishlist:item=2888266564&perks=1482024992,1561002382,247725512,1546637391
 
 
 // Red Herring - Red Herring (pve)
-//notes: If Palmyra-B is the fire and forget, hot swap weapon. The Red Herring is the solid DPS weapon. With field prep and lasting impressions paired with Gjallarhorn you can put out some incredible damage. Nothing else there, just make sure you don’t already have a good deeps weapon. tags:pve
+//notes: (PandaPaxxy) If Palmyra-B is the fire and forget, hot swap weapon. The Red Herring is the solid DPS weapon. With field prep and lasting impressions paired with Gjallarhorn you can put out some incredible damage. Nothing else there, just make sure you don’t already have a good deeps weapon. tags:pve
 dimwishlist:item=3175851496&perks=1441682018,3796465595,2308090567,2610012052
 dimwishlist:item=3175851496&perks=1441682018,3796465595,2308090567,4104185692
 dimwishlist:item=3175851496&perks=1441682018,3796465595,2308090567,4290541820
@@ -3937,7 +3937,7 @@ dimwishlist:item=3175851496&perks=3798852852,3796465595,3797647183,1167468626
 
 
 // Reckless Endangerment - Reckless Endangerment (pve)
-//notes: This season’s ritual weapon is very interesting. Unlike Python, Reckless Endangerment is just neutral. Which isn't a dig against Reckless Endangerment, but this gun just doesn’t bring anything special. In PvE there are just better shotguns, where a neutral, high-handling weapon just will not fit the bill. In Reckless Endangerment’s benefit is how smooth it feels to use. No other shotgun really comes close to how fluid this feels without any investment. tags:pve
+//notes: (PandaPaxxy) This season’s ritual weapon is very interesting. Unlike Python, Reckless Endangerment is just neutral. Which isn't a dig against Reckless Endangerment, but this gun just doesn’t bring anything special. In PvE there are just better shotguns, where a neutral, high-handling weapon just will not fit the bill. In Reckless Endangerment’s benefit is how smooth it feels to use. No other shotgun really comes close to how fluid this feels without any investment. tags:pve
 dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,4082225868
 dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887
 dimwishlist:item=3216652511&perks=1047830412,791862061,509074078,4082225868
@@ -3945,7 +3945,7 @@ dimwishlist:item=3216652511&perks=1047830412,791862061,509074078,957782887
 
 
 // Funnelweb - Funnelweb (pve)
-//notes: There’s a lot of hype around Funnelweb, for good reason. It’s the energy and submachine gun form of Krait. Both of which are fantastic in their own right. Against Lucient Hive you really only have to smash their ghost can spec out Funnelweb to have a massive magazine, a never ending spray of bullets; a focused concentration of high damage; or just a good feeling, decent damage weapon that you can take anywhere. There is no bad combo of perks for Funnelweb, just one’s that might not work for you. tags:pve
+//notes: (PandaPaxxy) There’s a lot of hype around Funnelweb, for good reason. It’s the energy and submachine gun form of Krait. Both of which are fantastic in their own right. Against Lucient Hive you really only have to smash their ghost can spec out Funnelweb to have a massive magazine, a never ending spray of bullets; a focused concentration of high damage; or just a good feeling, decent damage weapon that you can take anywhere. There is no bad combo of perks for Funnelweb, just one’s that might not work for you. tags:pve
 dimwishlist:item=3341893443&perks=4090651448,1087426260,1428297954,11612903
 dimwishlist:item=3341893443&perks=4090651448,1087426260,1428297954,2896038713
 dimwishlist:item=3341893443&perks=4090651448,1087426260,1428297954,4104185692
@@ -4030,7 +4030,7 @@ dimwishlist:item=3341893443&perks=1482024992,2420895100,3300816228,4104185692
 
 
 // Silicon Neuroma - Silicon Neuroma (pve)
-//notes: I am really excited for the return of this sniper. Aggressive snipers have been lacking ever since Bite of the Fox was removed from the loot pool. With the exact same zoom levels and a circular scope it is a nice alternative to those who don’t have one (or non-sunset version) with the ability to slot adept mods come the grandmaster release. For PvE, firing line will be your best friend. Triple tap with appended mag and adept backup mag or regular backup mag with extended mag you will hit the perfect threshold for triple tap returns. tags:pve
+//notes: (PandaPaxxy) I am really excited for the return of this sniper. Aggressive snipers have been lacking ever since Bite of the Fox was removed from the loot pool. With the exact same zoom levels and a circular scope it is a nice alternative to those who don’t have one (or non-sunset version) with the ability to slot adept mods come the grandmaster release. For PvE, firing line will be your best friend. Triple tap with appended mag and adept backup mag or regular backup mag with extended mag you will hit the perfect threshold for triple tap returns. tags:pve
 dimwishlist:item=3355385170&perks=839105230,1087426260,1428297954,1771339417
 dimwishlist:item=3355385170&perks=839105230,1087426260,1428297954,3523296417
 dimwishlist:item=3355385170&perks=839105230,1087426260,1428297954,2896038713
@@ -4070,7 +4070,7 @@ dimwishlist:item=3355385170&perks=1840239774,2420895100,3400784728,2896038713
 
 
 // Insidious - Insidious (pve)
-//notes: I’m glad to see more aggressive burst pulse rifles, but I am not glad to see more raid aggressive burst pulse rifles. The theme of this expansion is arrowhead brake. Cleaning up the recoil direction will net you the best results. 78 is workable and if you can control the recoil you can do well, but ideally 100. Depending on what you want your Insidious to do you can spec it out a few ways. Vorpal and rapid hit for bosses / majors. Demolitionist and adrenaline junkie for all the grenades and all the damage boosts. Dragonfly and adrenaline junkie to power up your explosions. Adaptive munitions and literally whatever to rip shields. Your will is your own, so craft it however you like. tags:pve
+//notes: (PandaPaxxy) I’m glad to see more aggressive burst pulse rifles, but I am not glad to see more raid aggressive burst pulse rifles. The theme of this expansion is arrowhead brake. Cleaning up the recoil direction will net you the best results. 78 is workable and if you can control the recoil you can do well, but ideally 100. Depending on what you want your Insidious to do you can spec it out a few ways. Vorpal and rapid hit for bosses / majors. Demolitionist and adrenaline junkie for all the grenades and all the damage boosts. Dragonfly and adrenaline junkie to power up your explosions. Adaptive munitions and literally whatever to rip shields. Your will is your own, so craft it however you like. tags:pve
 dimwishlist:item=3428521585&perks=839105230,1087426260,3523296417,1048183818
 dimwishlist:item=3428521585&perks=839105230,1087426260,3523296417,3431277734
 dimwishlist:item=3428521585&perks=839105230,1087426260,3523296417,1546637391
@@ -4290,7 +4290,7 @@ dimwishlist:item=3428521585&perks=1840239774,2420895100,169755979,11612903
 
 
 // Palmyra-B - Palmyra-B (pve)
-//notes: Palmyra-B is a fun little rocket launcher. The inherent tracking feels nice and being able to do some big damage while not having to think as much was a real game changer in my group's first attempt at Vow of the Disciple. The fire and forget nature of tracking launchers allows you to focus on literally anything else. Just be mindful of the lasting impressions delay. That has gotten me killed more than once. tags:pve
+//notes: (PandaPaxxy) Palmyra-B is a fun little rocket launcher. The inherent tracking feels nice and being able to do some big damage while not having to think as much was a real game changer in my group's first attempt at Vow of the Disciple. The fire and forget nature of tracking launchers allows you to focus on literally anything else. Just be mindful of the lasting impressions delay. That has gotten me killed more than once. tags:pve
 dimwishlist:item=3489657138&perks=3798852852,3796465595,3878366039,3927722942
 dimwishlist:item=3489657138&perks=3798852852,3796465595,3878366039,598607952
 dimwishlist:item=3489657138&perks=3798852852,3796465595,3878366039,1167468626
@@ -4342,7 +4342,7 @@ dimwishlist:item=3489657138&perks=3525010810,3796465595,3528046508,2396489472
 
 
 // Typhon GL5 - Typhon GL5 (pve)
-//notes: I was kind of hoping for better from Typhon GL5. It had tough competition from the likes of Blast Battue, Crowd Pleaser, and even Memory Interdict. With a stacked line up Typhon GL5 had to either impress or get left behind. Unfortunately the latter is what is happening. Even with chill clip you really would be better off using a headstone weapon for the stasis crystal shatter and slow / freeze. Chill clip was underwhelming but does have room to grow. tags:pve
+//notes: (PandaPaxxy) I was kind of hoping for better from Typhon GL5. It had tough competition from the likes of Blast Battue, Crowd Pleaser, and even Memory Interdict. With a stacked line up Typhon GL5 had to either impress or get left behind. Unfortunately the latter is what is happening. Even with chill clip you really would be better off using a headstone weapon for the stasis crystal shatter and slow / freeze. Chill clip was underwhelming but does have room to grow. tags:pve
 dimwishlist:item=3568377122&perks=1441682018,3301904089,3523296417,11612903
 dimwishlist:item=3568377122&perks=1441682018,3301904089,3523296417,4104185692
 dimwishlist:item=3568377122&perks=1441682018,3301904089,3523296417,2978966579
@@ -4373,7 +4373,7 @@ dimwishlist:item=3568377122&perks=3798852852,3301904089,3108830275,2978966579
 
 
 // Father's Sins - Father's Sins (pve)
-//notes: Father’s Sins sits in a weird spot. Where something like the IKELOS_SR_v1.0.2 has great boss dealing capabilities, it is also hard to get. Fugue-55 also released this season has similar boss killing capabilities, but is just as hard to get. Father’s Sins is craftable but doesn’t offer as much. Focused Fury is great for choosing when to get your damage and being able to reload and triple tap into a bigger mag is a huge boon. But damage phases are moving to more mobile sets, so “stand and DPS” is becoming less common. Even still having one in the event a “stand and DPS” phase comes back would be nice to keep in your back pocket. tags:pve
+//notes: (PandaPaxxy) Father’s Sins sits in a weird spot. Where something like the IKELOS_SR_v1.0.2 has great boss dealing capabilities, it is also hard to get. Fugue-55 also released this season has similar boss killing capabilities, but is just as hard to get. Father’s Sins is craftable but doesn’t offer as much. Focused Fury is great for choosing when to get your damage and being able to reload and triple tap into a bigger mag is a huge boon. But damage phases are moving to more mobile sets, so “stand and DPS” is becoming less common. Even still having one in the event a “stand and DPS” phase comes back would be nice to keep in your back pocket. tags:pve
 dimwishlist:item=3865728990&perks=839105230,1087426260,3400784728,2896038713
 dimwishlist:item=3865728990&perks=839105230,1087426260,3400784728,2402480669
 dimwishlist:item=3865728990&perks=839105230,1087426260,573122728,2896038713
@@ -4485,7 +4485,7 @@ dimwishlist:item=3865728990&perks=1840239774,2420895100,3442762221,2402480669
 
 
 // Submission - Sumbission (pve)
-//notes: Overflow on a 900 submachine gun is just hilarious. Overflow on any weapon is hilarious. I love overflow, I love its ease of use and the fact that it makes me forget my base mag on a near-constant basis. Submission with overflow and demolitionist or frenzy is going to be really strong in lower level activities. Along a similar vein, if you don’t like overflow, then something like subsistence on Submission would be alright. I just like overflow. tags:pve
+//notes: (PandaPaxxy) Overflow on a 900 submachine gun is just hilarious. Overflow on any weapon is hilarious. I love overflow, I love its ease of use and the fact that it makes me forget my base mag on a near-constant basis. Submission with overflow and demolitionist or frenzy is going to be really strong in lower level activities. Along a similar vein, if you don’t like overflow, then something like subsistence on Submission would be alright. I just like overflow. tags:pve
 dimwishlist:item=3886416794&perks=4090651448,1087426260,1820235745,4104185692
 dimwishlist:item=3886416794&perks=4090651448,1087426260,1820235745,3007133316
 dimwishlist:item=3886416794&perks=4090651448,1087426260,1820235745,1906147653
@@ -4813,7 +4813,7 @@ dimwishlist:item=3886416794&perks=1482024992,2420895100,2014892510,3523296417
 
 
 // Thoughtless - Thoughtless (pve)
-//notes: Thoughtless might be the best weapon in this DLC. Incredible utility in solo and group activities and it’s craftable so you can really get exactly what you want. In PvE there will be nothing that trumps overflow and firing line for group activities. If you really don’t like overflow then you can opt for rapid hit instead. Focused fury will be the go-to perk for solo activities or where you don’t have enough people for firing line to activate. Keep a couple rolls around just to bounce back and forth. tags:pve
+//notes: (PandaPaxxy) Thoughtless might be the best weapon in this DLC. Incredible utility in solo and group activities and it’s craftable so you can really get exactly what you want. In PvE there will be nothing that trumps overflow and firing line for group activities. If you really don’t like overflow then you can opt for rapid hit instead. Focused fury will be the go-to perk for solo activities or where you don’t have enough people for firing line to activate. Keep a couple rolls around just to bounce back and forth. tags:pve
 dimwishlist:item=4067556514&perks=1840239774,2420895100,3643424744,2896038713
 dimwishlist:item=4067556514&perks=1840239774,2420895100,3643424744,1771339417
 dimwishlist:item=4067556514&perks=1840239774,2420895100,3643424744,2402480669
@@ -4961,7 +4961,7 @@ dimwishlist:item=4067556514&perks=4090651448,106909392,247725512,395388285
 
 
 // Explosive Personality - Explosive Personality (pve)
-//notes: Explosive Personality is an interesting weapon. No lead from gold to pair with double special weapons builds like Deafening Whisper. And no adept mods like Forbearance will get. Being solar alone will get it a lot of use and having the ability to get auto-loading holster will give it the ease of use neither of the other wave frame launchers can get. I think Explosive Personality will be the base that other wave frame launchers will be compared to, not because of how good it can be, but mostly because of how easy it will be to use. A horde of thrall coming towards you? Pop your wave grenade and get healing or better damage. The wombo combo of stats for all and one for all for maximum grenade-dage (new word, copyright pending) you could ever want. tags:pve
+//notes: (PandaPaxxy) Explosive Personality is an interesting weapon. No lead from gold to pair with double special weapons builds like Deafening Whisper. And no adept mods like Forbearance will get. Being solar alone will get it a lot of use and having the ability to get auto-loading holster will give it the ease of use neither of the other wave frame launchers can get. I think Explosive Personality will be the base that other wave frame launchers will be compared to, not because of how good it can be, but mostly because of how easy it will be to use. A horde of thrall coming towards you? Pop your wave grenade and get healing or better damage. The wombo combo of stats for all and one for all for maximum grenade-dage (new word, copyright pending) you could ever want. tags:pve
 dimwishlist:item=4096943616&perks=1441682018,3492396210,3300816228,1683379515
 dimwishlist:item=4096943616&perks=1441682018,3492396210,3300816228,3108830275
 dimwishlist:item=4096943616&perks=1441682018,3492396210,3300816228,855168139
@@ -5181,7 +5181,7 @@ dimwishlist:item=4096943616&perks=3798852852,2822142346,2779035018,4049631843
 
 
 // Snorri FR5 - Snorri-FR5 (pve)
-//notes: If only Snorri-FR5 was released last season. Compulsive reloader has its best use when paired with reservoir burst to maximize uptime on that larger damage. Couple that with last season’s particle deconstruction and chefs kiss. Unfortunately we can only work with the seasonal mods we have now, so Snorri-FR5 falls off considerably, but still has great utility in double special weapons builds as the primary form of add-clear. Pair this with another special weapon that does good single target damage and you have yourself a build (heavy weapon optional). tags:pve
+//notes: (PandaPaxxy) If only Snorri-FR5 was released last season. Compulsive reloader has its best use when paired with reservoir burst to maximize uptime on that larger damage. Couple that with last season’s particle deconstruction and chefs kiss. Unfortunately we can only work with the seasonal mods we have now, so Snorri-FR5 falls off considerably, but still has great utility in double special weapons builds as the primary form of add-clear. Pair this with another special weapon that does good single target damage and you have yourself a build (heavy weapon optional). tags:pve
 dimwishlist:item=4114929480&perks=839105230,1483536627,671806388,1427256713
 dimwishlist:item=4114929480&perks=839105230,1483536627,671806388,4104185692
 dimwishlist:item=4114929480&perks=839105230,1483536627,671806388,4049631843
@@ -5266,7 +5266,7 @@ dimwishlist:item=4114929480&perks=1840239774,2680121939,3436462433,4049631843
 
 
 // Ragnhild-D - Ragnhild-D (pve)
-//notes: Ragnhild-D (affectionately named Reginald) did have some controversy at the beginning of the season being a 16 zoom shotgun. That has since been normalized to the standard 12 zoom of all shotguns. This puts Reginald directly in competition with its energy alternative A Sudden Death. Both with elemental capacitor and quick charge hit 100 handling. Which can further be boosted by steady hands or perpetual motion. Which means you can completely forego handling in favor of more range for deeper clean ups. Range does not increase your one hit kill range, but will make it more consistent in those further ranges when needing slight damage. I’d argue investing into range would be a better pairing than assault mag as the RPM bump isn’t enough to even catch up to precision frames. tags:pve
+//notes: (PandaPaxxy) Ragnhild-D (affectionately named Reginald) did have some controversy at the beginning of the season being a 16 zoom shotgun. That has since been normalized to the standard 12 zoom of all shotguns. This puts Reginald directly in competition with its energy alternative A Sudden Death. Both with elemental capacitor and quick charge hit 100 handling. Which can further be boosted by steady hands or perpetual motion. Which means you can completely forego handling in favor of more range for deeper clean ups. Range does not increase your one hit kill range, but will make it more consistent in those further ranges when needing slight damage. I’d argue investing into range would be a better pairing than assault mag as the RPM bump isn’t enough to even catch up to precision frames. tags:pve
 dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,4104185692
 dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,3007133316
 dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,11612903
